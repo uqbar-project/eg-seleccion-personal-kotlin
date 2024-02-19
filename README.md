@@ -1,9 +1,9 @@
 
 ## Selección de personal
 
-[![build](https://github.com/uqbar-project/eg-seleccion-personal-kotlin/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/uqbar-project/eg-seleccion-personal-kotlin/actions/workflows/build.yml) [![coverage](https://codecov.io/gh/uqbar-project/eg-seleccion-personal-kotlin/branch/master/graph/badge.svg)](https://codecov.io/gh/uqbar-project/eg-seleccion-personal-kotlin/branch/master/graph/badge.svg)
+[![build](https://github.com/uqbar-project/eg-seleccion-personal-kotlin/actions/workflows/build.yml/badge.svg)](https://github.com/uqbar-project/eg-seleccion-personal-kotlin/actions/workflows/build.yml) [![coverage](https://codecov.io/gh/uqbar-project/eg-seleccion-personal-kotlin/branch/master/graph/badge.svg)](https://codecov.io/gh/uqbar-project/eg-seleccion-personal-kotlin/branch/master/graph/badge.svg)
 
-<img src="images/personal.png" height="130px" width="130px"/>
+<img src="images/personal.png" alt="Selección de Personal" height="130px" width="130px"/>
 
 ### Branch master
 
